@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### I'm a student in the Masters of Applied Computing course at Lincoln University
+### More info to come later.
 <!--
 **Andrew-Bright-1161567/Andrew-Bright-1161567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
